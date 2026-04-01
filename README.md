@@ -1,1 +1,1 @@
-# Tugas_kelompok_3_SQA
+# Locales Pro
